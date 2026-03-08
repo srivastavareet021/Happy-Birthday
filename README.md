@@ -34,3 +34,21 @@ You can add photos, videos, messages, and memories — all in one elegant, scrol
 3. Deploy it using **Vercel**, **Netlify**, or **GitHub Pages**.
 ---
 Created with ❤️ by [@Harman](https://github.com/Harmann60)
+---
+
+## Message from Creator
+Hi there! 👋
+
+If you're reading this, chances are you're creating something special for someone you care about. A small surprise like this can make a birthday even more memorable, and I'm really glad this template could be part of that moment.
+
+This birthday website template was made to help you celebrate your loved ones in a unique way. All you need to do is make a few simple changes in the code and add photos of the person you're celebrating. Customize it with your own message, memories, or pictures to make it truly personal.
+
+If you run into any issues while setting it up, or if you need a little help making it perfect, feel free to reach out. I’d be happy to help.
+
+Feel free to contact me anytime.
+
+Regards,
+Harman
+[harmanjss10@gmail.com](mailto:harmanjss10@gmail.com)
+
+---
